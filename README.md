@@ -1,1 +1,1 @@
-# yo-ko-component-generator
+# yo-ko-modules-generator
